@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="DrugDaoTest">
+        <State />
+      </entry>
+      <entry key="DrugDaoTests">
+        <State />
+      </entry>
+      <entry key="DrugViewModelTest">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="fetchMedicines_success()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
